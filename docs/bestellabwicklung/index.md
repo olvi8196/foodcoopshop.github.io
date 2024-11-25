@@ -3,6 +3,7 @@ sidebar_label: Details
 ---
 
 # Bestellabwicklung
+Die Bestellung von Liefer-Produkten erfolgt über die Produktübersicht (auf der Startseite auf Produkte klicken), nicht über die Selbstbedienung! Produkte können nur dann im Selbstbedienungsbereich bestellt werden, wenn für sie im Admin-Berich das Häkchen Lagerprodukt aktiviert ist.
 
 ## 1a. Bestellungen für Produkte, die geliefert werden
 Beim Bestellen steht bei jedem Produkt der jeweilige nächste Abholtag in der Produktbeschreibung. Da innerhalb *einer* Bestellung Produkte *mit verschiedenen Abholtagen* bestellt werden können, werden die Produkte im Warenkorb übersichtlich nach Abholtagen gruppiert dargestellt.
